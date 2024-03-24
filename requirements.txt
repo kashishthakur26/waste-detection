@@ -20,7 +20,7 @@ torchvision >= 0.8.1
 tqdm>=4.64.0
 ultralytics>=8.0.111
 
-padas>=1.14
+pandas>=1.14
 seaborn>=0.11.0
 
 setuptools>=65.5.1
